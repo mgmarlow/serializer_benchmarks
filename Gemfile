@@ -55,3 +55,7 @@ gem "blueprinter", "~> 0.25.3"
 
 
 gem "jsonapi-serializer", "~> 2.2"
+
+gem "oj", "~> 3.13"
+
+gem "benchmark-ips", "~> 2.10"
